@@ -22,6 +22,7 @@ session_start();
             global  $name , $dob , $gender , $email , $phoneNumber , $role , $comment ;
             echo "The Inputs are <br> Full name: $name <br> Birthday: $dob <br> Gender: $gender <br>
             Email: $email <br> Phone number: $phoneNumber <br> Role: $role <br> Comment: $comment";
+            test branch
         }
     }
     echo GetValues();*/
