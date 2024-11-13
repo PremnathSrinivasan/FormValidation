@@ -23,7 +23,7 @@ session_start();
     //         if(isset($_POST['name']) && !preg_match('/^[a-zA-Z]*$/',trim($_POST['name'])))
     //         {
     //             $nameError="Please enter proper name";
-    //             //echo $nameError;
+    //             echo $nameError;
     //         }
     //         else if($_POST['name'] == ""){
     //             $nameError="Please enter proper name";
@@ -73,7 +73,7 @@ session_start();
     //         {
     //             $comment = $_POST['comment'];
     //         }
-    //         //
+    //         
     //     }  
     
     // require 'formValidation.php';
